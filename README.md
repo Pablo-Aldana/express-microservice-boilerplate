@@ -32,6 +32,9 @@ docker run -ti -p 1213:1213 service:latest
 yarn test
 ```
 
+## Credit
+
+Created by [VIVE](https://vivelaapp.es) a [Scintillam](https://www.scintillam.com) Company
 
 ## REST Documentation
 
